@@ -1,5 +1,5 @@
 # ReadmeGroupAD
-A Monte Carlo Tree Search (MCTS) agent enhanced with heuristic-driven decision-making for the Sushi Go! environment. 
+A Monte Carlo Tree Search (MCTS) agent enhanced with heuristic-driven decision-making for the Sushi Go! environment in the TAG Framework. 
 
 ## Description
 This project contains the implementation of GroupAD’s BasicMCTSPlayerv4, an advanced Monte Carlo Tree Search agent developed for the Sushi Go! framework.
