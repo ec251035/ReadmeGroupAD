@@ -28,3 +28,7 @@ players.basicMCTS.BasicMCTSPlayer
 players.basicMCTS.BasicMCTSParams
 
 players.PlayerConstants
+
+# Installing
+
+
