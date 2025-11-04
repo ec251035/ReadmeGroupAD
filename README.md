@@ -1,5 +1,5 @@
 # GroupAD README
-This project implements and evaluates a modified version of the Basic Monte Carlo Tree Search (BasicMCTS) agent within the Tabletop Games Framework, using the Sushi Go environment as a test case. The purpose of this project is to explore how heuristic-guided rollouts can improve decision quality and consistency in a standard MCTS implementation without using advanced extensions.
+This project implements and evaluates a modified version of the Basic Monte Carlo Tree Search (BasicMCTS) agent within the Tabletop Games Framework, using the Sushi Go environment as a test case. The purpose of this project is to explore how heuristic-guided rollouts can improve decision quality and consistency in a standard MCTS implementation without using advanced extensions. Link to Git
 
 ## Description
 This project contains the implementation of GroupAD’s BasicMCTSPlayerv4, an advanced Monte Carlo Tree Search agent developed for the Sushi Go! framework.
@@ -96,14 +96,15 @@ If compilation fails, check that your imports match your package hierarchy exact
 
 Group AD
 
-## Licence
-
-This project is part of the ECS7032P Coursework and intended solely for academic and educational use.
-Redistribution or commercial usage is not permitted without written permission.
-
 Abdulhafiz Altamimi — 250996968
 
 Adnan Hussain — 240906373
 
 Omar Debbah — 251038283
+
+## Licence
+
+This project is part of the ECS7032P Coursework and intended solely for academic and educational use.
+Redistribution or commercial usage is not permitted without written permission.
+
 
